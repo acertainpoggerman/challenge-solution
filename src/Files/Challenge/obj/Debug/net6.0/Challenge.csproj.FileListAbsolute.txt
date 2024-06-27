@@ -1,0 +1,14 @@
+D:\GitHub\challenge-solution\src\Files\Challenge\bin\Debug\net6.0\Challenge.exe
+D:\GitHub\challenge-solution\src\Files\Challenge\bin\Debug\net6.0\Challenge.deps.json
+D:\GitHub\challenge-solution\src\Files\Challenge\bin\Debug\net6.0\Challenge.runtimeconfig.json
+D:\GitHub\challenge-solution\src\Files\Challenge\bin\Debug\net6.0\Challenge.dll
+D:\GitHub\challenge-solution\src\Files\Challenge\bin\Debug\net6.0\Challenge.pdb
+D:\GitHub\challenge-solution\src\Files\Challenge\obj\Debug\net6.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\challenge-solution\src\Files\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfoInputs.cache
+D:\GitHub\challenge-solution\src\Files\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfo.cs
+D:\GitHub\challenge-solution\src\Files\Challenge\obj\Debug\net6.0\Challenge.csproj.CoreCompileInputs.cache
+D:\GitHub\challenge-solution\src\Files\Challenge\obj\Debug\net6.0\Challenge.dll
+D:\GitHub\challenge-solution\src\Files\Challenge\obj\Debug\net6.0\refint\Challenge.dll
+D:\GitHub\challenge-solution\src\Files\Challenge\obj\Debug\net6.0\Challenge.pdb
+D:\GitHub\challenge-solution\src\Files\Challenge\obj\Debug\net6.0\Challenge.genruntimeconfig.cache
+D:\GitHub\challenge-solution\src\Files\Challenge\obj\Debug\net6.0\ref\Challenge.dll
